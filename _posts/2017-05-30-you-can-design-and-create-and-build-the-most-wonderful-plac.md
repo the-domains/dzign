@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   ..we believe the same about websites.. which is why we are dzign’n in the
   gridoverse..
-dateModified: '2017-06-27T12:03:48.823Z'
-datePublished: '2017-06-27T12:03:49.109Z'
+dateModified: '2017-06-27T12:05:49.979Z'
+datePublished: '2017-06-27T12:05:50.259Z'
 title: ''
 author: []
 publisher: {}
