@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   meet the current dzign’rs cluttering up the gridoverse.. feel free to berate
   them..
-dateModified: '2017-07-02T12:51:23.336Z'
-datePublished: '2017-07-02T12:51:23.979Z'
+dateModified: '2017-07-02T12:52:44.274Z'
+datePublished: '2017-07-02T12:52:44.871Z'
 title: dzign’rs of the gridoverse..
 author: []
 publisher: {}
@@ -25,8 +25,8 @@ in another time they may have been useful to society, alas instead they've decid
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyt0UEKgzAQheGrZJedqdJViV6lJHGaDCZGxoHQ2zcWNwVBF10OD34-GO1gZqBBGxEIXr0MzMtDqVJKwwW5bo3LSXEATzhKwYY8cC-fNpp5koPG5IXNNAL18iZFAPSh7veuHiu5n6K1aOy3t2aHJiaVcozvrcyEbmqW2dekMoO2JNSpCl2ETKa9zuraS6w9fAQ7I5kR3P89W_VIo_b_fQDExp1n" height="650" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkVFLwzAQx9_3KUIE18KWqOCDa7uHgogve_JNRLLk0qVbk5Jch1P87l63DnxLcj_-d_dL2QEq1sfQQ8RTxe12pUznfOJMB4_gseJOGdBcrmelcUfmzEgtYwjI16WkJyokHV2P68wOXqMLPjMLlhbE5uxnxthRRdbS3baJVcyIBvD5AB2lp_r0ppqN6iBL-fvdR0G0syz7z9SnV5NRVM4i4BD9yExBOoJCmDhKKKggnKGaMxdMpKjpyqWkfTxoFFZp2IawFx5Qgv98qWUye9Gmmy-77Q7V_e0RYqIlquODeOJjDM0tehWpxyYYEKSHbNVgQ4Rs2isvZr-ZCXoYJ1mw-cXInE7Xfss2UZ95nhelnHxdjOqDSuksVYfuLIUzo1AtdxFsxXeIfVpJiTtoojNCOWm-XeMnyA9dHxJSwOP1P_4A8eWb5Q" height="500" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff-CstINJFaG5AYaJIOkRBi6cSGEHLtS-q0sSP7klIQ_51rm6psPt_ze3ef8xZQsS74DgIeCl6tF8q01kXOtHcIDgu-QeziQsr9fi8qpWHt_VZo30qrDGgul5Pc2IFZc3w-D94jX-aSrqgRdbAdLpOqdxqtd4mZsTgjbcp-JowNKrCG6qqJrGBG1IDPO2gpNpaHN1WvVAtJTN_vPjJS24ol_zXl4dUkZJWyANgHd9SMRjqAQhh15JBRQ1hDPWvOMhGDppJLSYs60HjdzQFKcJ8vpYxmK5p481Wt211xfztAiLREMTyIJ360oblFpwJlrLwBQdwIYwmVD5CMe6XZ5DcxXvfHSWZseiYypdMlb95EypmmaZbLkdeZqN6pGE9QifYJCmdGoZpvAlTXf8EN1MEaoaw037Z2o8j1becjksHj5T_-AELtpRk" height="500" style=""></iframe>
 
-
+vo.i
 
 [0]: http://gridtalk.info/
