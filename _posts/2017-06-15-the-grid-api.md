@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: roaming the gridoverse with a backpack full of ‘coffee’..
-dateModified: '2017-07-02T14:44:42.144Z'
-datePublished: '2017-07-02T14:44:42.950Z'
+dateModified: '2017-07-02T14:46:07.562Z'
+datePublished: '2017-07-02T14:46:08.131Z'
 title: the grid api
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-15-the-grid-api.md
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJwly0EOwiAQAMC7r9jsvQWrHkiAr5hm2UQMFAIb0d_b6mlOYzu1WAV6I4dKjTHmWkabY1E_nx2B38JtW9Mkn8oOH5ITeqv-08MJbIgvoLT27vBYE5WceZP9xuCQ-WIoLHQ_X43R-qYXffw9-S8MGCoC
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-15T08:37:05.348Z'
-_type: MediaObject
+url: the-grid-api/index.html
+_type: Article
 
 ---
 # the grid api
@@ -20,3 +20,5 @@ _type: MediaObject
 roaming the gridoverse with a backpack full of 'coffee'..
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwly0sKwyAQANB9TzHMPtFCkAbUq5QwWmrRKDrE9vb5dPVWTzeqoTC0SgaF6L2PJfc6hiwuPw3Bf9nXdYkD_4o3-OYU0WrxnxZuoF3YgOLSmsFzDZRT8isfNziD6kHu5aR63qd5llIpOZ3_SHYHCD4p3g" height="500" style=""></iframe>
+
+v.oi
