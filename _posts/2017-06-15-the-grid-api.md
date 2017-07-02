@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: roaming the gridoverse with a backpack full of ‘coffee’..
-dateModified: '2017-07-02T14:46:07.562Z'
-datePublished: '2017-07-02T14:46:08.131Z'
+dateModified: '2017-07-02T14:47:18.645Z'
+datePublished: '2017-07-02T14:47:19.186Z'
 title: the grid api
 author: []
 publisher: {}
