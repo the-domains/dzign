@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-03T12:31:45.463Z'
-datePublished: '2017-07-03T12:31:45.563Z'
+dateModified: '2017-07-03T12:31:49.684Z'
+datePublished: '2017-07-03T12:31:49.821Z'
 title: ..and the time in socal is currently..
 author: []
 publisher: {}
