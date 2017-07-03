@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: v1.1
-dateModified: '2017-07-03T12:50:53.909Z'
-datePublished: '2017-07-03T12:50:54.084Z'
+dateModified: '2017-07-03T12:50:58.104Z'
+datePublished: '2017-07-03T12:50:58.285Z'
 title: ..contact details.. flip.. socal time..
 author: []
 publisher: {}
