@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-27T12:10:30.401Z'
-datePublished: '2017-06-27T12:10:30.779Z'
+dateModified: '2017-07-03T12:31:45.463Z'
+datePublished: '2017-07-03T12:31:45.563Z'
 title: ..and the time in socal is currently..
 author: []
 publisher: {}
@@ -18,3 +18,7 @@ _type: Article
 # ..and the time in socal is currently..
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOgyAUhOGrEJJ2p1iTbhqxcdNV79AgToFUsIGnJJ6-pC7_xTfTuXdUHixFLbkl-qabEDnneoejDTFp6zCuwdQBJPS86E-V3WRA1SGrrb3PKphVGUiEMzmPfQmQg0d0Wp3ax3NJryEYzEicFUxW8kvTnDizcMZSqWvD2X9uXOKEKHnpBOULSX0njqv-B14nPOU" height="200" style=""></iframe>
+
+# flip the card..
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydVlFz4jYQfg6_QuNMJ2QGG2OO5M4mzE0f-tQ-9alPN7IkbDWy5EoCknT637uSbcA-cO5CBmztalf77X670drYV8E2k2greB0SJS3mkmn07wSh8MDyZ27DmmlTM2L5nqVoEcdx5pSVeruiUZflF4STm1xpynSK4voFGSU4RbeEkGzyH-gGMaWl2kNkXgq-ZgiB08GeqL8HYNzcdDCsxtJsla5SpJXFlv01XXyOKSvuM7fL4RnbgpCHNu5lVAuYBuHOIFINC3jmmDy7cA-c2jJFyxgyAjYl40VpYb3y685Fi60HjVuuJGQyejDZ5HvUoa90imrNDNN7Fi6pK8AJ98C-l4-Lxr4AXUoG1urdgy9YvWdSq85AM4EdkdqMDHLYYXfrLSYs3HPDcy64fU1RySllskM4usWjG3cyqj2PGOdA751lDqaqATK8CLa1_s1nEqGmGUKNKd-ZFCUrV3Kn8D81ppTLwvdK1oj6ZHGSPl_Q5JQflxgXbaHVTtIU7bSYltbWJp3PD4dDlOcc5xFR1dwowrGo5hxTRnIS1bK4RzH8SRVqVjNsIfa3kEvKXiDKpgbD3I92wg8023utNqbsA72l8CGrM6qgSOKKuWi3sAoNfwOuJawCt5SbWmCoIZcCOjTMhSLPWd-hLnI8TT7P0PITfB9nQN8vLiSihIJRdvuwWHxKHrPW-xZXXIDDENe1YKF5NZZVM_QruH_-A5M__fo32AkGxxJD5WFE-gkwIMWqFVqrqrTb0xDpYfVLdo1y7AVwlpiqg-u2BauOv_EKHrfL5dJPg2vVm4bjtTvqL1fuZH5d1bEoFKpQrjjXmyeJz3F_aRZtMyyS_uTs1j_H_X80feOFvMj9Y6CWW3Gi0aE9MFeCnrFhQZIkWV0tjIOzOkfjBoNuPMVd5bCAWFJEmLRMf4RYQ54fO7a-mugjxR5_NrrToEJJO5h6AWMNKXZS32Fdnbq4cOoA-AsIQsMkOpk_EyaT0rgJWirJWlM3hS2jH7RuLg99266Z37PF_mLzoYPX8_YSNllTvkdEYGOegv5NIUDwpnakNBZr-xTYkpvI7_ydGxtZVRSCTe88grv7LNjAmUNvcGnw8oHGTcRWDhpTY9mp3JQMNv7fAMQIitZ6DubfO3J8OvkZKJpeCTZrjErNtk_BefvZA7dAHd-A_rQAAcqCAc5vucAS3H5to8Cbs9PhmHrz985YVDFjuLwDarkGh1whWzJUaE6jaJ1rNN9gCqyTX4-dvp7XV2N1Ayg4P-j42r40j_8BPM6NPg" height="370" style=""></iframe>
