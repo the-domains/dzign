@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   meet the current dzign’rs cluttering up the gridoverse.. feel free to berate
   them..
-dateModified: '2017-07-03T13:34:25.361Z'
-datePublished: '2017-07-03T13:34:25.462Z'
+dateModified: '2017-07-03T13:35:20.250Z'
+datePublished: '2017-07-03T13:35:20.356Z'
 title: dzign’rs of the gridoverse..
 author: []
 publisher: {}
