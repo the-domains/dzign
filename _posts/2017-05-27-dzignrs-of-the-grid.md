@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   meet the current dzign’rs cluttering up the gridoverse.. feel free to berate
   them..
-dateModified: '2017-07-15T12:22:19.442Z'
-datePublished: '2017-07-15T12:22:19.565Z'
+dateModified: '2017-07-15T12:42:19.427Z'
+datePublished: '2017-07-15T12:42:20.159Z'
 title: dzign’rs of the gridoverse..
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ meet the current dzign'rs cluttering up the gridoverse.. feel free to berate the
 
 in another time they may have been useful to society, alas instead they've decided to spread the word throughout the gridoverse.. and the word is dzign.. no.. sorry!.. we meant it's _[gridtalk][0]_..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVeFumzAQ_s9TeJkmNmlA2jSVRkj-7BH2ANMBB1xjMLIvIdm0d58NNKNTp3YN_oHs8935-747m8TwWeLOCzPVMFCDWvz0hB2tMsSkmlholMB0xE1vz8m0Es6xYEjlaOso5yoW91-W7Wnj_fK8sAQpUZ9fyDXG3a76OGcppAKOJRY85KEaSuyzqBYyYnvujfO8oEilyvbO8neuCqmseGJgDc0jjHBtBILpYaSQ7QvIMDiSoZRkf0hFeY7NgKG2czmA-FeOC7ilW_2hC6lR8sC9D6s2FuvlBzd3BC-LPmmhdB0PU6sQfgzs5mfhvp-cT1Cb4CW_qfBxpY62lM_ptwxXm-dcJzSnWjtPxhP3G06rUqtDkweZkkrH4n1uR7Z2GEdLV9FAuLAdFRj6gTbP3VCDFvKcmtIa7tuTWN06q0segKTS6nUpfBINfZlk2DDqnZfkdBSZBGO2i0urLnbek42RkTW7XkpAVBqLrV8xt3EUdV0Xckds89luryOusNSU-7aTdYm89b-nEpq976ITqkthdLZdTILTlCDtQ43KCGQd3YRtUy4ej-_F7g-fghp0HTE93XLUFzuLQ3CHyEaoQohaSXlOIus20phOwSoxrP-PtwUM0qgCeurXUL6dg_LDwbAA8aAOusGz4EofxDf1FaQ4-5ZLGL7I_-1lp0yi0nBzjQirOUQYgQjTIuzNu7lL_oQz5JhdQ_huFsIOhdBQ2x_HK_i-na671gxybx_Lw1XNvp7rfqfKGH-85XMRNyNsagxDaWW9lDq8qtb3s9XaN-JI2LlnzYnQKS3zV7T5IEI0Pv2_AY39t5g" height="470" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytVG2OmzAQ_c8p3FRVWqlAdrOJVEKiSj1CD1ANMIA3xka2EzateveODZuy1VZpBfyI7PF8vPdmMqmxF4GHIMqVtMAlavYjYPS1ynDLlUyYRgGWn3Hn7QU3rYBLwixkYrB1vLB1wrafVu3TLvgZBFEFQqC-3Mg1xN2vfZyzlEKBTQSWts_DG6jQZ1Et5NxS3TvneUWRCZUfneXPXDXyqrYjg9Ugn2FEG8MQjIeRQX4sIcfwzA3PuPBFal4UKHsMDZ1FD-JvOa7gVu72my5kRomT9T5WtQnbrN65syN4vfikpdJN0h9JIXwf0uNH5n4_OJ-wMeEtv7HwSa3O1MrX9FtF691rriOaY62dp8Un6x-cVpVWJ1mEuRJKJ-xtQV--cRgHS1fznnBJExUa_h0pz0PfgxaKgsuKDNv2ia3vndUlD0HwivS6Nj6N-7lMc5QW9SFIC35muQBj9ovrqC4OwYuHgRGZ3SylwGqN5X5ZW9uaJI67rotsxy0lpHFvYg4F5ksaZF2h3S-_ZQLkcemCU95UzOh8vxjHZhmHzEcalXMQTXwXtbJaPJf3YvviY1C9rgOml0-O-uLgYTANDf2fzJs0JoeBwPgIpEF__0_GhBWEUSV40pPo3s9B9_FkLAP2qE5a4oXZWp_YV_UFBLssiU0U3VRgSstzgUrD3SQZ1rN0vUfCTItwnLHthLrStAtBHCMuSzWJ6cMcTJHWy0VJZJ-p2UhrQZ-a23wnNPmZv680if9mDv6OdKaMISQdojVzU-fSWKhof1yXWjRtq21n22pLw84cO6ZK3_pOaVH8w6T3KsTD7v8FeEC4Ug" height="470" style=""></iframe>
 
 like a smorgasbord of dzign'rs around a table.. quaffing fine wine, and debating the best aspects of the grid.. choose a square...
 
