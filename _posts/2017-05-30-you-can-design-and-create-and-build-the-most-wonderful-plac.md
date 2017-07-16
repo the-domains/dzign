@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  ..we believe the same about websites.. which is why we are dzign’n in the
+  ..we believe the same about websites.. which is why we are d-zign’n in the
   gridoverse..
-dateModified: '2017-07-15T12:39:12.432Z'
-datePublished: '2017-07-15T12:39:12.714Z'
+dateModified: '2017-07-16T08:46:09.285Z'
+datePublished: '2017-07-16T08:46:09.812Z'
 title: ''
 author: []
 publisher: {}
@@ -20,4 +20,4 @@ _type: Blurb
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fe5ce8b-8280-46aa-859a-037b8b77f9c0.jpg)
 
-..we believe the same about websites.. which is why we are dzign'n in the gridoverse..
+..we believe the same about websites.. which is why we are d-zign'n in the gridoverse..
