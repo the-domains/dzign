@@ -54,3 +54,7 @@ author:
   email: adrian@bbiab.com
   url: 'https://www.bbiab.com'
 url: 'http://d-zign.us'
+purpose:
+  - type: external
+    url: 'http://cool.d-zign.us'
+    label: cool stuff!
