@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: '{dzign}'
+name: '{d-zign}'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -58,3 +58,6 @@ purpose:
   - type: external
     url: 'http://cool.d-zign.us'
     label: cool stuff!
+  - type: external
+    url: 'http://contact.d-zign.us'
+    label: talk 2 us!
