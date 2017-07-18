@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-18T11:31:50.829Z'
-datePublished: '2017-07-18T11:31:51.444Z'
+dateModified: '2017-07-18T11:51:36.664Z'
+datePublished: '2017-07-18T11:51:37.405Z'
 title: socal time..
 author: []
 publisher: {}
@@ -17,6 +17,6 @@ _type: Article
 ---
 # socal time..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtj80KwjAQhO8-RVjQW40KXqSp9OLJd5CYjkmwTSW7tuDTG6rHGfjmp3ZIgtys6i5OyvWW2ZDrR_ekZqVUHR_ZDlCcnaEg8uKT1vM8bz-IMiGzCxH3d_LbBNELV82x85DqR1bT4dzb5N_WwyBtJA74jAmmHZCjs-vD5TryrU0ePZhUgSUYOu7WpAKiD2Jof9yRWtLuY-6QDRXNsEMhuKn1r2mZq8uL4vxPfQGK1Uvo" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydVk1z2zYQPVu_AkOPa3vGpCgqihPKUpMeckpPPfWUAcEViRoEWACSbHX637sASUlkJLmJNZYILPbj7b5d4snYVwHLUbQSvA6ZkpZyCZr8MyIk3EL2zG1YgzY1MMs3kJJJHMdzJ6zU7oxEnd4_sTm6ypTOQackrl-IUYLn5JoxNh_9i7JBTGmpNhiZ30VbD4Sg0cGZqH8GYVxddTCsptKslK5SopWlFv68m3yIcyju5-6Uw3PpCCEe2mUrF6WIaRDuA0aqcYG_GWXPLtwtz22ZkmmMGUGdEnhRWlzP_Loz0WLrQeOWK4mZjN6b-eh71KGvdEpqDQb0BsJp7gpwwD3Q7-XjpLIvQJeSgbZ60_EJrbdUatUpaBDUEanNyCCHHXa3XlEG4YYbnnHB7WtKSp7nIDuEF494dJeNXJQeR0wzpPfagoOpaoSMDwJW1j_5TBLSNEOoac7XJiXJzJXcCfxXTfOcy8L3yrzZ6pPF7fT5QkaH_LjEuGgLrdYyT8lai7vS2tqk4_F2u42yjNMsYqoaG8U4FdWYUcFXghZRLYt7EuNHqlBDDdRi8LuQyxxeMMymCMPkX2yF_9Ftb_XaJWEf6XWOf2x2xBUSSVqBi3aFq9DwnRtJ0QwqNJxzUwuKZeRSYJOGmVDsed43qYuM3iUfHsj0Hf4_PiCDP7qgmBJKH3ls7K9oxQUaDGldCwjNq7FQPZDf0Pzz75T94ddf8CQq7KuMxccp6YfAgBezdtNaVaXdmYZLj_HN_Bzr4AWRljRXW9dwE6j23zECJ9fT6dQPhHP1uwsvV28vP127g_p5UcejUKhCufKc758kPsb9sVm0_TBJ-sOzW_8Y_f_W-Y4XcpOc5P8-VMutOFBp27rMlMiP-DBhSZLMzpbGAZod43HTQTeW4q522I0F6jGQFvTPUOuI64lj-r5r67Op3pPs8UejO0wrkrTTqRcw1Zhkt-t7rKtUFxdNHQB_CyFkmES3533mwJSmTdBSSWhV3Si2kP-kdnOD6Ou-n0zeJY9v61J_u_kpxxFzY8arnnrNuZeDL0V7EfCF2M99NPA0bm9yT5kmY_zJ-YYwQY1ZBP1LR0DwSa1ZaSzVdhHYkpvIn_zKjY2sKgoBd7c-D7f382CJDobW8P7h9wcSN1vbfZSYmspO5OZtsOQUsWOkKGi1x6j-vSHHyoOdgaDpuGD5REmpYbUIjtvYbrlFAvpG9t4CgigLQJzfMkElmv3URkGXR97RTb38a20sqcAYLm-RoG5QYK6ILYEUmudR1OSW5shd-Wk_MZ7G9dlY3SALjh3tH9uH7udI0TOhSTtfafeiMpr1Ye6AWyyPYSWHbC2LSIIde70QZyDCDRvNcJP8iqiLNS1gAfIXyyvYIeUWnyvQnNGb5MtXZb59lgUIMEFzoVgEs_gmaK8Si2AyiwPirTXvoUWAawO0Qg2D0BpPB0j_Acnn6uc" height="525" style=""></iframe>
 
 > is "do you surf air..?" the new "lets do coffee.." ?
