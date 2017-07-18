@@ -58,3 +58,6 @@ purpose:
   - type: external
     url: 'https://contact.d-zign.us'
     label: talk 2 us!
+  - type: external
+    url: 'https://cool.d-zign.us'
+    label: cool stuff!
