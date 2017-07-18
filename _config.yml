@@ -56,7 +56,7 @@ author:
 url: 'http://d-zign.us'
 purpose:
   - type: external
-    url: 'http://cool.d-zign.us'
+    url: 'https://cool.d-zign.us'
     label: cool stuff!
   - type: external
     url: 'http://contact.d-zign.us'
