@@ -34,6 +34,9 @@ navigation:
   - name: think!
     url: 'https://think.d-zign.us'
     type: external
+  - name: talk 2 us!
+    url: 'https://contact.d-zign.us'
+    type: external
 title: '{d-zign}'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
