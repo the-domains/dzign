@@ -31,6 +31,9 @@ navigation:
   - name: cool stuff!
     url: 'https://cool.d-zign.us'
     type: external
+  - name: think!
+    url: 'https://think.d-zign.us'
+    type: external
 title: '{d-zign}'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
