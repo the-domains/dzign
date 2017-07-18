@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-04T14:11:43.757Z'
-datePublished: '2017-07-04T14:11:43.932Z'
-title: ..contact details.. flip.. socal time..
+dateModified: '2017-07-18T11:29:29.586Z'
+datePublished: '2017-07-18T11:29:30.134Z'
+title: socal time..
 author: []
 publisher: {}
 via: {}
@@ -15,8 +15,8 @@ url: and-the-time-in-socal-is-currently/index.html
 _type: Article
 
 ---
-# ..contact details.. flip.. socal time..
+# socal time..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydVk1z2zYQPVu_AkOPa3vGpCgqihPKUpMeckpPPfWUAYEViZoEWACSbHX637sASUlkJLmJNZYILPbj7b5d4snY1xKWo2hVijpkSloqJGjyz4iQcAvZs7BhDdrUwKzYQEomcRzPnbBSuzMSdXr_xOboKlOag05JXL8Qo0rByTVjbD76F2WDmNJCbTAyv4u2HghBo4MzUf8Mwri66mBYTaVZKV2lRCtLLfx5N_kQc8jv5-6Uw3PpCCEe2mUrF6WIaRDuA0aqcYG_GWXPLtyt4LZIyTTGjKBOASIvLK5nft2ZaLH1oAkrlMRMRu_NfPQ96tBXOiW1BgN6A-GUuwIccA_0e_k4qewL0KVkoK3edHxC6y2VWnUKGkrqiNRmZJDDDrtbryiDcCOMyEQp7GtKCsE5yA7hxSMe3WUjF6XHEdMM6b224GCqGiHjQwkr6598JglpmiHUlIu1SUkycyV3Av9VU86FzH2vzJutPlncTp8vZHTIj0uMizbXai15Sta6vCusrU06Hm-32yjLBM0ipqqxUUzQshoLyoFlLKplfk9i_EgVaqiBWox9FwrJ4QWjbGowzP3FTvgfzfZWq10S9oFec_xjsyOqkEjSCly0K1yFRuzcRIpmUKFhLkxdUqyikCX2aJiVij3P-yZ1ntG75MMDmb7D_8cHJPBHFxRTpdJHHhv7K1qJEg2GtK5LCM2rsVA9kN_Q_PPvlP3h11_wJCrsi4y1xyHpZ8CAFrN201pVpd2ZhkqP8c38HOngBZEWlKut67cJVPvvGIGT6-l06ufBufrdhZert5efrt1B_byo41FYqly58pxvnyQ-xv2xWbTtMEn6s7Nb_xj7_9Z8J3K5SU7yfx-qFbY8UGnbusxUyY_4MGFJkszOlsYBmh3jccNBN5birna0xGhSwkBa0D9DrSOuJ47p-66tz6Z6T7LHH43uMKxI0g6nXsBUY5Ldru-xrlJdXDR1APwlhJBhEt2e94nTSWnaBC2VhFbVTWIL_Ce1mwtEX_f9ZPIueXxbl_rLzU85jpgbM1711FvOvRt8Kdp7gC_Efuyjgadxe5F7yjQZ4w8XG8JKaswi6N85AoJPas0KY6m2i8AWwkT-5FdhbGRVnpdwd-vzcHs_D5boYGgNrx9-fyBxs7XdR4mpqexEbt4GS_9CwUhR0GqPUf17Q46VBzsDQdNxwfKJkkLDahEct7HdCosE9I3svQUEUeaAOL9lJZVo9lMbBV0eeUc39fKvtbGkAmOEvEWCukGBuSK2AJJrwaOoyS3lyF35aT8xnsb12VjdIAuOHe0f24fu50jRM6FJu1hp96IymvVh7kBYLI9hhYBsLfNIgh17vRBnIMING81wk_yKqPM1zWEB8hcrKtgh5RafK9CC0Zvky1dlvn2WOZRgguY-sQhm8U3Q3iQWwWQWB8Rba95DiwDXBmiFGgahNZ4OkP4DndXqbw" height="525" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlz0EOgyAQBdC9pyCT2J3FmrhphMZNV71DgzgFUsGGQUk8fY0uZ_H-_9MNkXFZFN3oVqYnRSRAT7P-giwY69wnKo-MohZgU_rRnfOc83VDl1aMpK3DYQnmGjDxw1XZjQZTdcpqbR6TCmZRBgWGS3Ietzmg6D1Gp1XZPF8zvftgcEICtuNkBbR1CcyiMzYJuLU1sCNtmOOIUcB-Eyq_C5IdP5uOuXz_Qv4B2I9Hag" height="525" style=""></iframe>
 
 > is "do you surf air..?" the new "lets do coffee.." ?
