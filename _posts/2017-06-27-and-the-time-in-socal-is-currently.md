@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-24T09:16:07.779Z'
-datePublished: '2017-07-24T09:16:08.635Z'
+dateModified: '2017-09-07T08:03:55.154Z'
+datePublished: '2017-09-07T08:03:55.606Z'
 title: it’s a beautiful day.. socal time..
 author: []
 publisher: {}
